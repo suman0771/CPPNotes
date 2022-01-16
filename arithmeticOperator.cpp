@@ -29,7 +29,7 @@ int main()
 	x +=2;
 	cout<<x;
 
-	x++;
+	x++;    //here x= 10 and value of x get updated from next line bcz of post increament
 	cout<<x; ///add 1 to x
 
 	x--;
