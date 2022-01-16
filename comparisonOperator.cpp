@@ -18,7 +18,7 @@ int main()
     //Comparision of strings
 
     bool st = " hello" == "hello";
-    //there are not same 
+    //there are not same as first hello is having space 
      int num1, num2;
      cout<<"Type a number: ";
      cin>>num1>>num2;
@@ -26,10 +26,12 @@ int main()
 
 }
 /*
+Comparision Operator gives boolean result 
 <
 >
 <=
 >=
 !=
 ==
+
 */
