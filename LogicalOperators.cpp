@@ -11,7 +11,9 @@ int main()
 
 	bool log = (!false && !true); //
 
-	cout<<x<<y<<test<<log;
+	cout<<x<<" "<<y<<" "<<test<<"  "<<log;
+	
+	
  
 
 }
