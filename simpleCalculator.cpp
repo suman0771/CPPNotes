@@ -13,4 +13,14 @@ int main()
 	cin>>num2;
 	int sum = num1+num2;
 	cout<<"The Sum is "<<sum;
+	int sub = num1-num2;
+	cout<<"The Subtraction is "<<sum;
+	int div = num1/num2;
+	cout<<"The Division is "<<sum;
+	int multi = num1*num2;
+	cout<<"The Multiply is "<<sum;
+	int mod = num1%num2;
+	cout<<"The Remainder is "<<sum;
+	
+	
 }
