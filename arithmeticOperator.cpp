@@ -38,6 +38,7 @@ int main()
 }
 
 /*
+Order of operations:
 
 B
 E
@@ -48,4 +49,15 @@ S
 
 */
 
-//order operation
+/*
+Arthmetic Operators
+
++
+-
+*
+/
+%
+++
+--
+
+*/
